@@ -9,6 +9,6 @@ title: My first update
 
 ## Second level of heading
 
-This should be the body
+This should be the body.
 
 ---
