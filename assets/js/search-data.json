@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "Fastpages Notebook Blog Post",
-            "content": "",
+            "title": "First Jupyter Notebook Blog post",
+            "content": "from datetime import datetime ct = datetime.now() print(&quot;current Time is :&quot;, ct) . current Time is : 2022-08-21 11:04:16.820815 .",
             "url": "https://nmalayath.github.io/FinBlog/2022/08/21/My-First-Post.html",
             "relUrl": "/2022/08/21/My-First-Post.html",
             "date": " • Aug 21, 2022"
